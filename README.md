@@ -1,6 +1,6 @@
 # 🌐 Browser-Use Web UI
 
-<img src="./assets/web-ui.png" alt="Browser Use Web UI" width="100%"/>
+<
 
 An AI-powered browser automation tool that lets you control your browser with natural language commands. Built on [browser-use](https://github.com/browser-use/browser-use) with a user-friendly Gradio interface.
 
@@ -229,3 +229,4 @@ web-ui/
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
