@@ -218,15 +218,142 @@ web-ui/
 
 ---
 
-## 🙏 Credits
+Prompt :
 
-- Built on [browser-use](https://github.com/browser-use/browser-use)
-- WebUI designed by [WarmShao](https://github.com/warmshao)
-- Docker setup by [@casistack](https://github.com/casistack)
+Step 1 — Open LinkedIn
+Open https://www.linkedin.com
+ using the already logged-in session.
+Do not log in again.
 
----
+Step 2 — Search for “developer intern”
+At the top search bar:
 
-## 📄 License
+Click the search bar
 
-MIT License - see [LICENSE](LICENSE) for details.
+Type: developer intern
+
+Press Enter, or select the first option from the dropdown suggestions
+
+Step 3 — Switch to the Jobs Section
+After search results load:
+
+Check if you are in the Jobs section
+
+If not, click the Jobs tab
+
+Step 4 — Enable Easy Apply Filter
+In the filter row (where company, location, experience, etc. appear):
+
+Turn ON the Easy Apply filter
+
+Ensure only Easy Apply jobs are shown
+
+Step 5 — Start Applying to Jobs One by One
+Click jobs one by one in order.
+Apply to each job, then move to the next job continuously (loop through every job: 1st → 2nd → 3rd → 4th, etc.).
+
+APPLICATION PROCESS FOR EACH JOB
+
+A. Open the job and click Easy Apply
+If the job does not show Easy Apply, skip it and move to the next job.
+
+B. Scrolling and Button Visibility
+Some pages will not show Next or Apply immediately.
+For every page:
+
+Scroll down fully until you reach the bottom
+
+When the Next, Continue, Review, Submit, or Apply button becomes visible, click it
+
+If the button is still not visible, scroll further until it appears
+
+C. Input Field Handling
+For every input box:
+
+If already filled, leave it
+
+If empty and required, fill using my details (name, email, phone, education, skills)
+
+If empty and not required, leave it
+For dropdown menus:
+
+Click the dropdown and select one valid option
+
+Or type the required value and choose from the dropdown list
+
+D. Resume Selection Page
+If a resume selection page appears:
+
+My resume is already saved in LinkedIn
+
+Do not upload anything
+
+Scroll down and click Next
+
+E. Submitting the Application
+On the final page:
+
+Scroll to the bottom
+
+Click Submit Application or Apply
+
+Wait until the confirmation shows that the application is completed
+
+F. Move to the Next Job
+Immediately after finishing one application:
+
+Go back to the job list
+
+Select the next job
+
+Start the same process again
+Repeat in a continuous loop for all available Easy Apply Developer Intern jobs.
+
+G. When to Skip a Job
+Skip instantly if:
+
+A cover letter is required
+
+Long answer fields appear
+
+The process redirects to an external website
+
+Required fields cannot be filled
+
+The application fails
+
+Then proceed directly to the next job.
+
+HUMAN-LIKE BEHAVIOR
+
+After each job application:
+
+Wait 40 seconds to 1 minute before applying to the next job
+
+Scroll the job description briefly before clicking Easy Apply
+
+Add natural pauses between actions
+
+Avoid applying too quickly or in a repetitive pattern
+
+STOP CONDITIONS
+
+Stop immediately and return control if:
+
+CAPTCHA appears
+
+Multi-factor authentication appears
+
+“Unusual activity detected” appears
+
+Any suspicious or blocking message appears
+
+FINAL OBJECTIVE
+
+Apply to as many Developer Intern Easy Apply jobs in India as possible.
+Loop through each job one by one.
+Scroll whenever required, fill required fields only, click Next, submit the application, then move directly to the next job.
+No resume uploads, no logs, no data saving — only apply.
+
+
 
